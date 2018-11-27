@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "CitizenID": "10/MLM(N) 250675",
+      "Date" : "20/04/2014",
+      "Name": "Zin Min Htut Oo",
+      "Dad": "U Thar Lwin",
+      "BirthDate": "22/09/1998",
+      "EthnicGroup" :"Mon",
+      "Religion": "Buddhism",
+      "BloodType": "B",
+      "Height": "5 ft 6.5 inches",
+      "IDCODE": "U781731",
+      "JOB": "Student",
+      "Address": "No.84,Ngantae ward,Mawlamyine",
+      "Mobile": "09792359726",
+      "Email": "minchanhtut@gmail.com"
+    },
+    {
+     "CitizenID": "10/MLM(N) 450675",
+     "Date" : "20/04/2014",
+     "Name": "Min Htut Oo",
+     "Dad": "U Thar Lwin",
+     "BirthDate": "22/09/1998",
+     "EthnicGroup" :"Mon",
+     "Religion": "Buddhism",
+     "BloodType": "B",
+     "Height": "5 ft 6.5 inches",
+     "IDCODE": "U781731",
+     "JOB": "Student",
+     "Address": "No.84,Ngantae ward,Mawlamyine",
+     "Mobile": "09792359726",
+     "Email": "minchanhtut@gmail.com"
+   },
+   {
+    "CitizenID": "10/MLM(N) 350675",
+      "Date" : "20/04/2014",
+      "Name": "Htut Oo",
+      "Dad": "U Thar Lwin",
+      "BirthDate": "22/09/1998",
+      "EthnicGroup" :"Mon",
+      "Religion": "Buddhism",
+      "BloodType": "B",
+      "Height": "5 ft 6.5 inches",
+      "IDCODE": "U781731",
+      "JOB": "Student",
+      "Address": "No.84,Ngantae ward,Mawlamyine",
+      "Mobile": "09792359726",
+      "Email": "minchanhtut@gmail.com"
+  }
+]
+
+}
